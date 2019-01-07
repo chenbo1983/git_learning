@@ -7,5 +7,7 @@ public class Main{
 		System.out.println("莫使金樽空对月");
 		
 		System.out.println("Master 分支修改");
+		
+		System.out.println("测试");
 	}
 }
